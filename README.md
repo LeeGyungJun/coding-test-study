@@ -32,3 +32,17 @@
         </td>
     </tr>
 </table>
+
+<table>
+    <tr height="160px">
+        <td align="center" width="150px">
+            <a href="https://github.com/kimTaeMyoung"><img height="120px" width="120px" src=""/></a>
+            <br />
+            <strong>LeeGyungJun</strong>
+        </td>
+    </tr>
+    <tr height="50px">
+        <td align="center">
+        </td>
+    </tr>
+</table>
