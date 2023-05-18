@@ -31,10 +31,7 @@
             <a href="https://augustin26.tistory.com">:memo: Blog</a>
         </td>
     </tr>
-</table>
-
-<table>
-    <tr height="160px">
+   <tr height="160px">
         <td align="center" width="150px">
             <a href="https://github.com/kimTaeMyoung"><img height="120px" width="120px" src="https://avatars.githubusercontent.com/u/133958764?v=4"/></a>
             <br />
