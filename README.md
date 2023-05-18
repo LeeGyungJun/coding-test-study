@@ -21,7 +21,7 @@
 <table>
     <tr height="160px">
         <td align="center" width="150px">
-            <a href="https://github.com/LeeGyungJun"><img height="120px" width="120px" src="https://avatars.githubusercontent.com/u/37505775?s=460&u=44732fef53503e63d47192ce5c2de747eff5f0c6&v=4"/></a>
+            <a href="https://github.com/LeeGyungJun"><img height="120px" width="120px" src="https://avatars.githubusercontent.com/u/50611236?v=4"/></a>
             <br />
             <strong>LeeGyungJun</strong>
         </td>
