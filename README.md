@@ -38,7 +38,7 @@
         <td align="center" width="150px">
             <a href="https://github.com/kimTaeMyoung"><img height="120px" width="120px" src=""/></a>
             <br />
-            <strong>LeeGyungJun</strong>
+            <strong>kimTaeMyoung</strong>
         </td>
     </tr>
     <tr height="50px">
