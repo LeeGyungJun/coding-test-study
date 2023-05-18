@@ -25,20 +25,16 @@
             <br />
             <strong>LeeGyungJun</strong>
         </td>
-    </tr>
-    <tr height="50px">
-        <td align="center">
-            <a href="https://augustin26.tistory.com">:memo: Blog</a>
-        </td>
-    </tr>
-   <tr height="160px">
-        <td align="center" width="150px">
+       <td align="center" width="150px">
             <a href="https://github.com/kimTaeMyoung"><img height="120px" width="120px" src="https://avatars.githubusercontent.com/u/133958764?v=4"/></a>
             <br />
             <strong>kimTaeMyoung</strong>
         </td>
     </tr>
     <tr height="50px">
+        <td align="center">
+            <a href="https://augustin26.tistory.com">:memo: Blog</a>
+        </td>
         <td align="center">
         </td>
     </tr>
