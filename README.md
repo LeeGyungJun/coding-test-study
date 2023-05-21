@@ -38,7 +38,7 @@
        <td align="center" width="150px">
             <a href="https://github.com/GunnHB"><img height="120px" width="120px" src="https://avatars.githubusercontent.com/u/117302300?v=4"/></a>
             <br />
-            <strong>Nam-GunnHB</strong>
+            <strong>GunnHB</strong>
         </td>
     </tr>
     <tr height="50px">
