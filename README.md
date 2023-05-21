@@ -41,15 +41,4 @@
             <strong>GunnHB</strong>
         </td>
     </tr>
-    <tr height="50px">
-        <td align="center">
-            <a href="https://augustin26.tistory.com">:memo: Blog</a>
-        </td>
-        <td align="center">
-        </td>
-       <td align="center">
-        </td>
-       <td align="center">
-        </td>
-    </tr>
 </table>
